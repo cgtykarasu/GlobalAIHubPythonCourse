@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# Çağatay KARASU's Global AI Hub Python Course Repo
 ![](img/logo.png)
 
 **Course Date:** 01.02.2021-05.02.2021  
