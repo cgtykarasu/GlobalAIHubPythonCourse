@@ -2,7 +2,7 @@
 ![](img/logo.png)
 
 **Course Date:** 01.02.2021-05.02.2021  
-**Name:** Çapatay  
+**Name:** Çağatay  
 **Surname:** KARASU  
 **Email:** cagatay_karasu@hotmail.com  
 
