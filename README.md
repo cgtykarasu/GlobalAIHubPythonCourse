@@ -7,13 +7,4 @@
 **Email:** cagatay_karasu@hotmail.com  
 
 ## Project Name
-Description of your project.
-
-## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
----
-
+Company Management System
